@@ -1,5 +1,19 @@
-
-
-
-.link { color: #033811; }
-.link:hover { color: #ad9c3b; }
+#music{
+    font-family: "Comic Sans MS", serif;
+}
+p.saxophone {
+    border: medium solid goldenrod;
+}
+p {
+    background-color: aquamarine;
+}
+.link {
+    color: #033811;
+}
+.link:hover {
+    color: #ad9c3b;
+}
+div{
+    padding: 50px;
+    margin: 20px;
+}
